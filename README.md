@@ -12,7 +12,7 @@
 
 <!-- - 🌱 I’m currently learning **Java Script / UI Design** -->
 
-- 👨‍💻 My Protofilio is available at (<https://shane6123.netlify.app/>)
+- 👨‍💻 My Protofilio is available at (<https://shanealam.me/>)
 
 - 💬 Ask me about **React Node Express Mongo Aws(S3 ,route53 , ec2)**
 
